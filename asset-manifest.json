@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a545e93.css",
-    "main.js": "/static/js/main.925ae2f0.js",
-    "static/js/787.ec1213a3.chunk.js": "/static/js/787.ec1213a3.chunk.js",
-    "index.html": "/index.html",
-    "main.4a545e93.css.map": "/static/css/main.4a545e93.css.map",
-    "main.925ae2f0.js.map": "/static/js/main.925ae2f0.js.map",
-    "787.ec1213a3.chunk.js.map": "/static/js/787.ec1213a3.chunk.js.map"
+    "main.css": "/dogstagram-challange/static/css/main.4a545e93.css",
+    "main.js": "/dogstagram-challange/static/js/main.7d25a6e6.js",
+    "static/js/787.ec1213a3.chunk.js": "/dogstagram-challange/static/js/787.ec1213a3.chunk.js",
+    "index.html": "/dogstagram-challange/index.html",
+    "main.4a545e93.css.map": "/dogstagram-challange/static/css/main.4a545e93.css.map",
+    "main.7d25a6e6.js.map": "/dogstagram-challange/static/js/main.7d25a6e6.js.map",
+    "787.ec1213a3.chunk.js.map": "/dogstagram-challange/static/js/787.ec1213a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a545e93.css",
-    "static/js/main.925ae2f0.js"
+    "static/js/main.7d25a6e6.js"
   ]
 }
